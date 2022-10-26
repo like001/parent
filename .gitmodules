@@ -2,3 +2,4 @@
 	path = subDir
 	url = git@github.com:like001/subModule.git
 	branch = dev
+	update = rebase
